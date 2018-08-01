@@ -2,3 +2,4 @@ test2.txt
 hotfix
 hotfix2
 another-second-feature
+another-third-feature
